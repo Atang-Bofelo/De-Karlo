@@ -1,0 +1,93 @@
+body{
+    margin-left: 10px;
+    margin-right: 10px;
+}
+header{
+    background: #fff;
+    margin:0px;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-top: 0px;
+    height:111px ;
+}
+header img{
+    width: 400px;
+    height: 110px;
+    border-right: 3px rgb(107, 105, 105) solid;
+}
+header ul{
+    float: right;
+    color: #fff;
+    list-style-type:none ;
+}
+nav{
+    margin-bottom: 2px;
+    padding-bottom:0px;
+    color: #fff;
+}
+nav ul{
+    margin-left: 10px;
+    margin-bottom: 5px;
+    list-style-type: none;
+}
+nav ul li{
+    display: inline;
+    padding: 20px 24px;
+    font-size: 23px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+}
+nav ul li a{
+    text-decoration: none;
+    color: black;
+}
+nav ul li :hover{
+    border-bottom:  rgb(107, 105, 105) 5px solid;
+}
+.ads{
+    background: #ccc;
+    margin-left: 10px;
+    margin-right: 10px;
+    padding-left: 0px;
+     
+}
+.ads h1{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-indent: 180px;
+    text-transform: uppercase;
+}.class1{
+    margin-left: 8px;
+    margin-right: 10px;
+}
+.class1 img{
+    height: 550px;
+    width: 1300px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+footer{
+    clear: both;
+    background: rgb(107, 105, 105);
+    padding-top: 15px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 120px;
+}
+footer li{
+    list-style-type: none;
+    display: inline;
+    padding: 1px 16px;
+}
+footer li a{
+    text-decoration: none;
+    color: #fff;
+}
+footer p{
+    color: #fff;
+    text-indent: 500px;
+}
+footer ul img{
+    height: 40px;
+    
+}
